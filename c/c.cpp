@@ -8,6 +8,8 @@ int main()
    
 	std::cout << "Hello World\n";
 	std::cout << "apples added\n";
+	std::cout << "dhan amma bathayalo added\n";
+
 
 }
 
